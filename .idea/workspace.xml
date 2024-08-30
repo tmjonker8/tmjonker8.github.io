@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="264c7791-b950-468b-a407-5d49a9ad95ac" name="Changes" comment="Updated github link." />
+    <list default="true" id="264c7791-b950-468b-a407-5d49a9ad95ac" name="Changes" comment="Removed fixed footer..." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,12 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725050817580</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Removed fixed footer...">
+      <option name="closed" value="true" />
+      <created>1725051128269</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725051128269</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated portfolio site to angular portfolio." />
     <MESSAGE value="Updated github link." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated github link." />
+    <MESSAGE value="Removed fixed footer..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed fixed footer..." />
   </component>
 </project>
