@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="264c7791-b950-468b-a407-5d49a9ad95ac" name="Changes" comment="Removed fixed footer..." />
+    <list default="true" id="264c7791-b950-468b-a407-5d49a9ad95ac" name="Changes" comment="Fixed Resume...">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,13 +91,22 @@
       <option name="project" value="LOCAL" />
       <updated>1725051801958</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fixed Resume...">
+      <option name="closed" value="true" />
+      <created>1725063476129</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725063476129</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated portfolio site to angular portfolio." />
     <MESSAGE value="Updated github link." />
     <MESSAGE value="Removed fixed footer..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed fixed footer..." />
+    <MESSAGE value="Fixed Resume..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Resume..." />
   </component>
 </project>
